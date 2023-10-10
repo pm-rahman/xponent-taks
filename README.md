@@ -1,5 +1,5 @@
-- First clone this repository in your local
-- run the code 
+#### First clone this repository in your local
+#### Run one code from Below which one do you want
  - npm install
  - yarn install
 
